@@ -1,0 +1,18 @@
+.gif-list-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px ;
+}
+
+.gif-search-form {
+    display: block;
+}
+
+.d-block {
+    display: block;
+}
+
+input:focus {
+    border-color: blue;
+    outline: none;
+}
